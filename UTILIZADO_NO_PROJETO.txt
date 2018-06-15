@@ -4,3 +4,5 @@ Linter da propria extensão do vscode e do intellij idea
 Editores:
     - Intellij IDEA (https://www.jetbrains.com/idea/)
     - Vs code (https://code.visualstudio.com/)
+Metricas e analises gerais:
+    - Sonar (https://sonarcloud.io)

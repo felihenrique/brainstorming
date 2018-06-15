@@ -91,7 +91,7 @@ public class Session {
   public List<Idea> rankIdeas() {
     return ideas
             .stream()
-            .filter(i -> i.voters.size() > 0)
+            .filter(i -> !i.voters.isEmpty())
             .sorted((a, b) -> a.countVotes() - b.countVotes())
             .collect(Collectors.toList());
   }

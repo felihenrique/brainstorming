@@ -5,4 +5,4 @@ public enum SessionPhase {
   BRAINSTORM, // creating new ideas
   VOTING,     // voting on the ideas
   RANK,       // final report
-};
+}

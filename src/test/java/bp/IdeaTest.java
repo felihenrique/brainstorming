@@ -50,7 +50,7 @@ public class IdeaTest {
 
     // Usuario dando voto
     idea.registerVote(user2);
-    assertEquals(idea.voters.size(), 1);
+    assertEquals(1, idea.voters.size());
     assertTrue(user2.votes == 1);
 
     // Usuario não pode votar mais que o limite (1)
