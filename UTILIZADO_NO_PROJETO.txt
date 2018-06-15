@@ -1,0 +1,6 @@
+JUnit (http://junit.org/)
+Diretrizes definidas no inicio da disciplina (https://docs.google.com/document/d/1LHeEPZKZ6FRfqKZytz5QdmFxBR5mctgDHsJPzBV-KIs)
+Linter da propria extensão do vscode e do intellij idea
+Editores:
+    - Intellij IDEA (https://www.jetbrains.com/idea/)
+    - Vs code (https://code.visualstudio.com/)
